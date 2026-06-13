@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "EvansBigDaddy",
+    "username": "Nigel Farage",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I hate jews",
+        "I hate black people I vote for reform since they will kick all of the nigger out",
+        "hitler was a nice person"
       ]
     },
     "chat-log": true,
